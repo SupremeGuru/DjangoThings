@@ -1,0 +1,68 @@
+body,
+html{
+    width: 100%;
+    height: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: url() no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+
+}
+
+/*
+a{
+    text-decoration:solid;
+    text-align: center;
+    color: black;
+}
+.div1{
+    display: flex;
+}
+.div1 > a {
+    padding: 2vh;
+    font: large;
+    justify-content: flex-end;
+}
+.space6 {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
+#puddle{
+    margin-right: 30%;
+}
+.space6 > a{
+    text-align: center;
+    justify-content: flex-end;
+    font-weight: 500;
+    color: black;
+    margin-left: 1%;
+    padding: 2vh;
+    border-radius: 2vh;
+    font-size: x-large;
+}
+#signUp {
+    background-color: gray;
+    color: white;
+}
+#logIn{
+    background-color: teal;
+    color: white;
+}
+#signUp:hover{
+    background-color: teal;
+    font-weight: 700;
+    color: white;
+}
+#logIn:hover{
+    background-color: gray;
+    font-weight: 700;
+    color: white;
+}
+.space6 > a:hover{
+    color: gray;
+    font-weight: 700;
+} */
